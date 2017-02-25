@@ -6,4 +6,4 @@ Writeup [here](writeup.md)
 
 Jupyter notebook [here](P1.ipynb)
 
-Jupyter notebook (html version) [here](P1.html)
+Jupyter notebook (html version) [here](https://raw.githubusercontent.com/sven91swe/CarND-LaneLines/master/P1.html)
